@@ -35,7 +35,7 @@ proyecto_inditex/
 │   └── bundles_product_match_test.csv  # Dataset de evaluación
 ├── metadata/
 │   └── product_dataset.csv    # Metadatos y descripciones de Inditex
-├── pipeline_color.py          # Script principal de inferencia (con análisis de color)
+├── main.py          # Script principal de inferencia (con análisis de color)
 ├── deepfashion2_yolov8s-seg.pt# Pesos del modelo YOLOv8
 ├── vectores_catalogo_27k.pt   # Caché de embeddings y colores (Autogenerado)
 └── README.md                  # Este archivo
